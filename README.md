@@ -75,7 +75,7 @@ Currently, I’m working on **LawNet**, a modern platform designed for structure
 
 ### 🔹 LawNet
 > A modern system for structured data, workflows, and management  
-🌐 **Website:** https://mas0n1x.online  
+🌐 **Website:** https://lawnet.sale  
 🛠️ **Tech:** PHP, JavaScript, MySQL, Docker
 
 ---
