@@ -1,27 +1,27 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=header&text=Mas0n1x&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20System%20Architect%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:22c55e&height=200&section=header&text=Mas0n1x&fontSize=80&fontColor=22c55e&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20System%20Architect%20%7C%20Security%20Enthusiast&descAlignY=55&descSize=16"/>
 
 <br>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%F0%9F%94%90+Building+Secure+Systems;%F0%9F%9A%80+Local-First+Applications;%E2%9C%A8+Clean+Code+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22c55e&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%F0%9F%94%90+Building+Secure+Systems;%F0%9F%9A%80+Local-First+Applications;%E2%9C%A8+Clean+Code+Architecture" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 <!-- SOCIAL BADGES -->
 <a href="https://mas0n1x.online">
-  <img src="https://img.shields.io/badge/Portfolio-mas0n1x.online-6E40C9?style=for-the-badge&logo=safari&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-mas0n1x.online-22c55e?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Mas0n1x">
-  <img src="https://img.shields.io/badge/GitHub-Mas0n1x-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Mas0n1x-0a0a0a?style=for-the-badge&logo=github&logoColor=22c55e"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Mas0n1x&label=Views&color=6E40C9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Mas0n1x&label=Views&color=22c55e&style=for-the-badge"/>
 
 </div>
 
@@ -53,32 +53,32 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
 
 **Currently working on:**
 
-<img src="https://img.shields.io/badge/LawNet-Enterprise_Workflow-6E40C9?style=flat-square&logo=rocket&logoColor=white"/>
-<img src="https://img.shields.io/badge/Password_Manager-Security_App-6E40C9?style=flat-square&logo=lock&logoColor=white"/>
-<img src="https://img.shields.io/badge/Productivity_Manager-Desktop_App-6E40C9?style=flat-square&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/LawNet-Enterprise_Workflow-22c55e?style=flat-square&logo=rocket&logoColor=black"/>
+<img src="https://img.shields.io/badge/Password_Manager-Security_App-22c55e?style=flat-square&logo=lock&logoColor=black"/>
+<img src="https://img.shields.io/badge/Productivity_Manager-Desktop_App-22c55e?style=flat-square&logo=target&logoColor=black"/>
 
 </td>
 <td width="45%" valign="top">
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mas0n1x&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=ffffff" width="280"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mas0n1x&layout=donut&theme=github_dark&hide_border=true&bg_color=000000&title_color=22c55e&text_color=ffffff" width="280"/>
 
 <br>
 
 **What I do:**
 
-<img src="https://img.shields.io/badge/Security--First-Development-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security--First-Development-22c55e?style=for-the-badge"/>
 <br>
-<img src="https://img.shields.io/badge/Local--First-Applications-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Local--First-Applications-22c55e?style=for-the-badge"/>
 <br>
-<img src="https://img.shields.io/badge/Linux-Server_&_Systems-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Server_&_Systems-22c55e?style=for-the-badge"/>
 <br>
-<img src="https://img.shields.io/badge/Docker-Compose_&_Containers-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-Compose_&_Containers-22c55e?style=for-the-badge"/>
 <br>
-<img src="https://img.shields.io/badge/System-Architecture-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System-Architecture-22c55e?style=for-the-badge"/>
 <br>
-<img src="https://img.shields.io/badge/Automation-&_DevOps-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-&_DevOps-22c55e?style=for-the-badge"/>
 
 </div>
 
@@ -88,7 +88,7 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open_For-Collaborations-28a745?style=for-the-badge&logo=handshake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open_For-Collaborations-22c55e?style=for-the-badge&logo=handshake&logoColor=black"/>
 
 </div>
 
@@ -177,7 +177,7 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
 </p>
 
 <p align="center">
-  <a href="https://lawnet.sale"><img src="https://img.shields.io/badge/Visit-lawnet.sale-6E40C9?style=for-the-badge"/></a>
+  <a href="https://lawnet.sale"><img src="https://img.shields.io/badge/Visit-lawnet.sale-22c55e?style=for-the-badge"/></a>
 </p>
 
 </td>
@@ -295,12 +295,12 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=Mas0n1x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff&count_private=true"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mas0n1x&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=ffffff&langs_count=6"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=Mas0n1x&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=22c55e&icon_color=22c55e&text_color=ffffff&count_private=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mas0n1x&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=22c55e&text_color=ffffff&langs_count=6"/>
 
 <br><br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mas0n1x&bg_color=0d1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&area_color=6E40C9&hide_border=true"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mas0n1x&bg_color=000000&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=22c55e&hide_border=true"/>
 
 </div>
 
@@ -317,28 +317,28 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
 <table>
 <tr>
 <td align="center" width="25%">
-<img width="60" src="https://cdn.simpleicons.org/shieldsdotio/6E40C9"/>
+<img width="60" src="https://cdn.simpleicons.org/shieldsdotio/22c55e"/>
 <br><br>
 <strong>Security First</strong>
 <br>
 <sub>Every system built with<br>security as the foundation</sub>
 </td>
 <td align="center" width="25%">
-<img width="60" src="https://cdn.simpleicons.org/homeassistant/6E40C9"/>
+<img width="60" src="https://cdn.simpleicons.org/homeassistant/22c55e"/>
 <br><br>
 <strong>Local First</strong>
 <br>
 <sub>Your data stays<br>on your device</sub>
 </td>
 <td align="center" width="25%">
-<img width="60" src="https://cdn.simpleicons.org/codecov/6E40C9"/>
+<img width="60" src="https://cdn.simpleicons.org/codecov/22c55e"/>
 <br><br>
 <strong>Clean Code</strong>
 <br>
 <sub>Readable, maintainable,<br>scalable</sub>
 </td>
 <td align="center" width="25%">
-<img width="60" src="https://cdn.simpleicons.org/githubactions/6E40C9"/>
+<img width="60" src="https://cdn.simpleicons.org/githubactions/22c55e"/>
 <br><br>
 <strong>Automation</strong>
 <br>
@@ -360,11 +360,11 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
 <div align="center">
 
 <a href="https://mas0n1x.online">
-  <img src="https://img.shields.io/badge/Portfolio-mas0n1x.online-6E40C9?style=for-the-badge&logo=safari&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-mas0n1x.online-22c55e?style=for-the-badge&logo=safari&logoColor=black"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Mas0n1x">
-  <img src="https://img.shields.io/badge/GitHub-Mas0n1x-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Mas0n1x-0a0a0a?style=for-the-badge&logo=github&logoColor=22c55e"/>
 </a>
 
 <br><br>
@@ -380,7 +380,7 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
 <br>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0a0a0a,100:000000&height=120&section=footer"/>
 
 <div align="center">
   <sub>Last updated: 2025</sub>
