@@ -72,6 +72,10 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
 <br>
 <img src="https://img.shields.io/badge/Local--First-Applications-6E40C9?style=for-the-badge"/>
 <br>
+<img src="https://img.shields.io/badge/Linux-Server_&_Systems-6E40C9?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Docker-Compose_&_Containers-6E40C9?style=for-the-badge"/>
+<br>
 <img src="https://img.shields.io/badge/System-Architecture-6E40C9?style=for-the-badge"/>
 <br>
 <img src="https://img.shields.io/badge/Automation-&_DevOps-6E40C9?style=for-the-badge"/>
@@ -260,6 +264,23 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
   <sub>Tailored software solutions</sub><br><br>
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+  <br>
+  <strong>Linux Server Setup</strong><br>
+  <sub>Server & system administration</sub><br><br>
+</td>
+<td align="center" width="33%">
+  <br>
+  <strong>Docker & Containers</strong><br>
+  <sub>Docker Compose deployments</sub><br><br>
+</td>
+<td align="center" width="33%">
+  <br>
+  <strong>Infrastructure</strong><br>
+  <sub>Self-hosted solutions</sub><br><br>
+</td>
+</tr>
 </table>
 
 </div>
@@ -348,7 +369,7 @@ A passionate **Software Developer** from Germany, focused on building secure, lo
 
 <br><br>
 
-**Open for:** `Collaborations` | `System Architecture` | `Security Consulting` | `Automation Projects`
+**Open for:** `Collaborations` | `System Architecture` | `Security Consulting` | `Automation Projects` | `Linux Server Setup`
 
 <br>
 
