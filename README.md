@@ -5,8 +5,6 @@
 
 <br>
 
-Building secure, local-first software & local AI.
-
 <a href="https://mas0n1x.online"><img src="https://img.shields.io/badge/Portfolio-mas0n1x.online-22c55e?style=flat-square&logo=safari&logoColor=white"/></a>
 <a href="https://lawnet.sale"><img src="https://img.shields.io/badge/Product-lawnet.sale-22c55e?style=flat-square&logo=rocket&logoColor=white"/></a>
 <a href="https://github.com/Mas0n1x"><img src="https://img.shields.io/badge/GitHub-Mas0n1x-0a0a0a?style=flat-square&logo=github&logoColor=22c55e"/></a>
