@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Mas0n1x — Founder and Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="55%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#0d1f14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#22c55e" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#grid)"/>
+  <rect width="1200" height="240" fill="url(#glow)"/>
+
+  <!-- accent bar -->
+  <rect x="0" y="0" width="6" height="240" fill="url(#accent)"/>
+
+  <!-- name -->
+  <text x="60" y="120" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="72" font-weight="800" fill="#ffffff" letter-spacing="1">Mas<tspan fill="#22c55e">0</tspan>n<tspan fill="#22c55e">1</tspan>x</text>
+
+  <!-- tagline -->
+  <text x="63" y="162" font-family="'Fira Code', 'Consolas', monospace" font-size="20" font-weight="500" fill="#9ca3af" letter-spacing="0.5">Founder &amp; Full-Stack Developer</text>
+
+  <!-- sub tagline / tags -->
+  <text x="63" y="194" font-family="'Fira Code', 'Consolas', monospace" font-size="15" fill="#22c55e" letter-spacing="1">Local-First &#183; AI &#183; Security &#183; Self-Hosting</text>
+
+  <!-- decorative dots, right side -->
+  <g fill="#22c55e" opacity="0.5">
+    <circle cx="1110" cy="70" r="4"/>
+    <circle cx="1140" cy="70" r="4" opacity="0.6"/>
+    <circle cx="1170" cy="70" r="4" opacity="0.3"/>
+  </g>
+</svg>

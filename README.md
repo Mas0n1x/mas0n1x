@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:22c55e&height=200&section=header&text=Mas0n1x&fontSize=80&fontColor=22c55e&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20Full-Stack%20Developer%20%7C%20Local-First%20%26%20AI%20%7C%20Security&descAlignY=55&descSize=16"/>
+<!-- HEADER BANNER (liegt im Repo unter assets/banner.svg) -->
+<img width="100%" src="assets/banner.svg" alt="Mas0n1x — Founder & Full-Stack Developer"/>
 
 <br>
 
